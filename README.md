@@ -31,7 +31,7 @@ Each table is connected through relationships that ensure data integrity and ena
 ## 🗺️ ER Diagram
 Below is the Entity-Relationship (ER) diagram for the Cab Booking System database:
 
-![ER Diagram](https://github.com/ynilesh801/Cab-Booking-System-Analytics-SQL/blob/main/er_diagram.png)
+![ER Diagram](https://github.com/ynilesh801/Cab-Booking-System-Analytics-SQL/blob/main/Er%20Diagram.png)
 
 ---
 
