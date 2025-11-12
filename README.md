@@ -26,6 +26,12 @@ The database includes six key entities:
 
 Each table is connected through relationships that ensure data integrity and enable multi-dimensional analysis.
 
+### 🗺️ ER Diagram
+Below is the Entity-Relationship (ER) diagram for the Cab Booking System database:
+
+![ER Diagram](https://github.com/ynilesh801/Cab-Booking-System-Analytics-SQL/blob/main/Er%20Diagram.png)
+
+
 ---
 
 ## 🧠 Key SQL Analyses
