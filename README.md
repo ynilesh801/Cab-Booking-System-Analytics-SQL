@@ -79,4 +79,4 @@ By understanding customer trends, driver behavior, and revenue patterns, a cab b
 
 ## 📎 Project Report
 You can read the complete project documentation here:  
-[📄 Cab Booking System SQL Project Report](https://github.com/ynilesh801/Cab-Booking-System-Analytics-SQL/blob/main/Cab%20Booking%20System_SQL.pdf)
+[📄 Cab Booking System SQL Project Report](https://github.com/ynilesh801/Cab-Booking-System-Analytics-SQL/blob/main/Cab%20Booking%20System_SQl.pdf)
