@@ -26,11 +26,12 @@ The database includes six key entities:
 
 Each table is connected through relationships that ensure data integrity and enable multi-dimensional analysis.
 
-### 🗺️ ER Diagram
+---
+
+## 🗺️ ER Diagram
 Below is the Entity-Relationship (ER) diagram for the Cab Booking System database:
 
-![ER Diagram](https://github.com/ynilesh801/Cab-Booking-System-Analytics-SQL/blob/main/Er%20Diagram.png)
-
+![ER Diagram](https://github.com/ynilesh801/Cab-Booking-System-Analytics-SQL/blob/main/er_diagram.png)
 
 ---
 
@@ -65,18 +66,17 @@ Below is the Entity-Relationship (ER) diagram for the Cab Booking System databas
 ## 👨‍💻 Author
 **Nilesh Yadav**  
 _Data Analyst | Skilled in Excel, SQL, Power BI, and Python_  
-📧 ynilesh801@gmail.com 
-🔗 [LinkedIn Profile](www.linkedin.com/in/ynilesh801)
+📧 **ynilesh801@gmail.com**  
+🔗 [LinkedIn Profile](https://linkedin.com/in/your-link)
 
 ---
 
 ## 🏁 Conclusion
-This project demonstrates how SQL can turn raw booking data into meaningful insights.  
+This project demonstrates how **SQL** can turn raw booking data into meaningful insights.  
 By understanding customer trends, driver behavior, and revenue patterns, a cab booking company can make smarter, data-driven decisions to improve operations and profitability.
-
 
 ---
 
 ## 📎 Project Report
 You can read the complete project documentation here:  
-[📄 Cab Booking System SQL Project Report](https://github.com/ynilesh801/Cab-Booking-System-Analytics-SQL/blob/main/Cab%20Booking%20System_SQl.pdf)
+[📄 Cab Booking System SQL Project Report](https://github.com/ynilesh801/Cab-Booking-System-Analytics-SQL/blob/main/Cab%20Booking%20System_SQL.pdf)
