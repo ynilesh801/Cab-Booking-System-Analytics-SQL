@@ -67,7 +67,7 @@ Below is the Entity-Relationship (ER) diagram for the Cab Booking System databas
 **Nilesh Yadav**  
 _Data Analyst | Skilled in Excel, SQL, Power BI, and Python_  
 📧 **ynilesh801@gmail.com**  
-🔗 [LinkedIn Profile](https://linkedin.com/in/your-link)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ynilesh801/)
 
 ---
 
