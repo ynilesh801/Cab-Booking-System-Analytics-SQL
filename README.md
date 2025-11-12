@@ -67,3 +67,10 @@ _Data Analyst | Skilled in Excel, SQL, Power BI, and Python_
 ## 🏁 Conclusion
 This project demonstrates how SQL can turn raw booking data into meaningful insights.  
 By understanding customer trends, driver behavior, and revenue patterns, a cab booking company can make smarter, data-driven decisions to improve operations and profitability.
+
+
+---
+
+## 📎 Project Report
+You can read the complete project documentation here:  
+[📄 Cab Booking System SQL Project Report](https://github.com/ynilesh801/Cab-Booking-System-Analytics-SQL/blob/main/Cab%20Booking%20System_SQl.pdf)
